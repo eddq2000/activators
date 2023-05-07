@@ -1,6 +1,6 @@
 import json
 
-fileName = '005_Hin_und_her_gelaufen-2023-05-02_15-28-27.json'
+fileName = 'Python Scripts (Exploration)/005_Hin_und_her_gelaufen-2023-05-02_15-28-27.json'
 
 with open(fileName) as data:
     d = json.load(data)
