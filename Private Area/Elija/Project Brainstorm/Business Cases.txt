@@ -1,0 +1,54 @@
+Relevant sind nur Szenarien, in denen das Handy von der Person getragen wird.
+
+Kommt es nur auf die Bewegung der Person an?
+
+################################
+Acceleormeter: Misst Bewegungen (Beschleunigungen) in alle Richtungen des Handys
+
+Gravity: Misst vor allem das Steigen oder Fallen des Handys
+
+Gyroscope: Misst Rotationen, bzw. kleineste Bewegungen und Schwankungen des Handys!
+
+Orientation: Kein Plan
+
+Barometer: Kommt mir so vor, als ob das die Höhe des Handys (relativ) misst
+
+Light: Kann die äußere Helligkeit mit einem Sensor messen
+
+Audio: Es kann Lautstärke messen
+
+Battery: Misst den relativen Akkustand des Gerätes
+
+Brightness: Misst relative Bildschirmhelligkeit
+################################
+
+Wir brauchen ein Szenario, wo das Handy so gut wie immer am selben Platz ist. (Sonst Gefahr von Verfälschungen)
+
+Wo haben Leute ihr Handy denn überhaupt alles?
+- In der Hand
+- In der Hosentasche
+- In einer Tasche oder Rucksack
+- Auf einer Ablagefläche
+
+Was auch immer wir für Informationen mit dem Modell aus unseren handy-Daten bekommen => Es muss einen Wert haben!!!
+
+Was kann das Handy von einer Person messen?
+- Ob man sich schnell bewegt (Rennen, Laufen, Fahrrad, Scooter, Auto?)
+- Ob man steigt oder fällt
+- Ob man stark beschleunigt oder bremst
+- Ob man das Handy in der Hand hält oder es in der Hosentasche (bzw. wo anders ist)
+	=> Was wenn man diesen Case als Fundamnet für weitere Cases gut trainiert?! ####(So zuliefer-mäßig?)####
+- Ob man sich dreht
+- Ob man eher ruhig oder unruhig ist (wieder Bewegung)
+
+Weitere Anhaltspunkte:
+- Industrie-Zweige / Berufe (Auch sehr ausgefallenes, woran man erst nicht denkt!) //Muss aber von uns reproduzierbar sein
+- Aktivitäten auf der Arbeit
+- Um was für einen Zeitraum handelt es sich
+- Oder ist mit Business Case eine App gemeint, die sich Leute für ihr Handy holen können?!
+
+
+
+
+
+KEYWORD: Zulieferungs-Modell!
